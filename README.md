@@ -7,3 +7,4 @@
 - [Cписок встроенных типов, вытянутый из репозитория Flow](https://www.saltycrane.com/flow-type-cheat-sheet/latest)
 - [Описание типов сторонних библиотек](https://github.com/flowtype/flow-typed)
 - [Список поддерживаемых фич из ES2015+ (непонятно, насколько актуальный)](https://github.com/facebook/flow/issues/560)
+- [Вводный курс по Flow от Javascript.Ninja](https://www.youtube.com/playlist?list=PLvTBThJr861zvILAjREUakZ6E5l7h7lsZ)
