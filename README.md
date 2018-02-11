@@ -8,3 +8,9 @@
 - [Описание типов сторонних библиотек](https://github.com/flowtype/flow-typed)
 - [Список поддерживаемых фич из ES2015+ (непонятно, насколько актуальный)](https://github.com/facebook/flow/issues/560)
 - [Вводный курс по Flow от Javascript.Ninja](https://www.youtube.com/playlist?list=PLvTBThJr861zvILAjREUakZ6E5l7h7lsZ)
+### Проверки в runtime
+- [flow-runtime](https://codemix.github.io/flow-runtime)
+- [flow-io](https://github.com/gcanti/flow-io)
+- [tcomb](https://github.com/gcanti/babel-plugin-tcomb)
+- [babel-plugin-react-flow-props-to-prop-types ](https://github.com/thejameskyle/babel-plugin-react-flow-props-to-prop-types)
+
