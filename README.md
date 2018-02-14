@@ -1,4 +1,7 @@
 # Репозиторий с материалами доклада ["Пробуем Flow в бою"](https://2018.conf.rollingscopes.com/speaker/alexander-shushunov.html)
+[Видио](https://youtu.be/aYw7QgRs_Cs?t=2h10m44s)
+
+[Слайды](https://drive.google.com/open?id=1mo8uXoxKsk1Dsj5kYI69DrQucuZcV_AP)
 ## Полезные ссылки
 - [Исследование о том, что статическая типизация снижает количество ошибок](https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript) 
 - [Документация](https://flow.org/en/docs/) 
