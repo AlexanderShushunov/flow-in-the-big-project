@@ -1,5 +1,5 @@
 # Репозиторий с материалами доклада ["Пробуем Flow в бою"](https://2018.conf.rollingscopes.com/speaker/alexander-shushunov.html)
-[Видео](https://www.youtube.com/watch?v=xSHPFcdVj2A) (скоро будет)
+[Видео](https://www.youtube.com/watch?v=xSHPFcdVj2A)
 
 [Слайды](https://drive.google.com/open?id=1mo8uXoxKsk1Dsj5kYI69DrQucuZcV_AP)
 ## Полезные ссылки
