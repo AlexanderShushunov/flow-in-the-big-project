@@ -2,6 +2,8 @@
 [Видео](https://www.youtube.com/watch?v=xSHPFcdVj2A)
 
 [Слайды](https://drive.google.com/open?id=1mo8uXoxKsk1Dsj5kYI69DrQucuZcV_AP)
+
+[Статья нашего архитектора](https://medium.com/@tselishev.semen/fairy-tale-flow-world-8adfdda857ab)
 ## Полезные ссылки
 - [Исследование о том, что статическая типизация снижает количество ошибок](https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript) 
 - [Документация](https://flow.org/en/docs/) 
