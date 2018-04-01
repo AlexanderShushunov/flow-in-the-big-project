@@ -13,6 +13,7 @@
 - [Описание типов сторонних библиотек](https://github.com/flowtype/flow-typed)
 - [Список поддерживаемых фич из ES2015+ (непонятно, насколько актуальный)](https://github.com/facebook/flow/issues/560)
 - [Вводный курс по Flow от Javascript.Ninja](https://www.youtube.com/playlist?list=PLvTBThJr861zvILAjREUakZ6E5l7h7lsZ)
+- [Несдержанное обещание статической типизации](https://ru.hexlet.io/blog/posts/the-broken-promise-of-static-typing) Об этой статье упомянул в своем вопросе [Андрей Мелихов](https://twitter.com/amel_true).
 ### Проверки в runtime
 - [flow-runtime](https://codemix.github.io/flow-runtime)
 - [flow-io](https://github.com/gcanti/flow-io)
