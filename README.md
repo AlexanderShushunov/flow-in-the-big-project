@@ -1,4 +1,4 @@
-# Репозиторий с материалами доклада ["Пробуем Flow в бою"](https://2018.conf.rollingscopes.com/speaker/alexander-shushunov.html)
+# Репозиторий с материалами докладов ["Пробуем Flow в бою"](https://2018.conf.rollingscopes.com/speaker/alexander-shushunov.html) и [Бьем типы с Flow. Вести с фронта](https://events.epam.com/events/it-subbotnik-2018-spring/talks/6158)
 Видео:
  - [c The Rolling Scopes Conference 2018](https://www.youtube.com/watch?v=xSHPFcdVj2A)
 
