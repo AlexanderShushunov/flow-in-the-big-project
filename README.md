@@ -1,7 +1,9 @@
 # Репозиторий с материалами доклада ["Пробуем Flow в бою"](https://2018.conf.rollingscopes.com/speaker/alexander-shushunov.html)
-[Видео c The Rolling Scopes Conference 2018](https://www.youtube.com/watch?v=xSHPFcdVj2A)
+Видео:
+ - [c The Rolling Scopes Conference 2018](https://www.youtube.com/watch?v=xSHPFcdVj2A)
 
-[Слайды](https://drive.google.com/open?id=1mo8uXoxKsk1Dsj5kYI69DrQucuZcV_AP)
+Слайды:
+ - [c The Rolling Scopes Conference 2018](https://drive.google.com/open?id=1mo8uXoxKsk1Dsj5kYI69DrQucuZcV_AP)
 
 [Статья нашего архитектора](https://medium.com/@tselishev.semen/fairy-tale-flow-world-8adfdda857ab)
 ## Полезные ссылки
@@ -15,6 +17,7 @@
 - [Описание типов сторонних библиотек](https://github.com/flowtype/flow-typed)
 - [Список поддерживаемых фич из ES2015+ (непонятно, насколько актуальный)](https://github.com/facebook/flow/issues/560)
 - [Вводный курс по Flow от Javascript.Ninja](https://www.youtube.com/playlist?list=PLvTBThJr861zvILAjREUakZ6E5l7h7lsZ)
+- [Скрипт для подсчета уникальных библиотек во flow-typed](github.com/AlexanderShushunov/count-flow-typed-libs)
 ### Проверки в runtime
 - [flow-runtime](https://codemix.github.io/flow-runtime)
 - [flow-io](https://github.com/gcanti/flow-io)
