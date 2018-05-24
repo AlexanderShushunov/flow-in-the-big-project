@@ -1,9 +1,11 @@
 # Репозиторий с материалами докладов ["Пробуем Flow в бою"](https://2018.conf.rollingscopes.com/speaker/alexander-shushunov.html) и ["Бьем типы с Flow. Вести с фронта"](https://events.epam.com/events/it-subbotnik-2018-spring/talks/6158)
 Видео:
  - [c The Rolling Scopes Conference 2018](https://www.youtube.com/watch?v=xSHPFcdVj2A)
+ - c ITsubbotnik 2018 Moscow (coming soon)
 
 Слайды:
  - [c The Rolling Scopes Conference 2018](https://drive.google.com/open?id=1mo8uXoxKsk1Dsj5kYI69DrQucuZcV_AP)
+ - [c ITsubbotnik 2018 Moscow](https://drive.google.com/open?id=17XiMArkSOYBIcTFW3Pg3MwmKKUUHMS2q)
 
 [Статья нашего архитектора](https://medium.com/@tselishev.semen/fairy-tale-flow-world-8adfdda857ab)
 ## Полезные ссылки
