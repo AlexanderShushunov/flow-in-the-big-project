@@ -8,6 +8,9 @@
  - [c ITsubbotnik 2018 Moscow](https://drive.google.com/open?id=17XiMArkSOYBIcTFW3Pg3MwmKKUUHMS2q)
 
 [Статья нашего архитектора](https://medium.com/@tselishev.semen/fairy-tale-flow-world-8adfdda857ab)
+
+[Мое выступление об основах Flow](https://youtu.be/3Z4hWgG8y4o)
+
 ## Полезные ссылки
 - [Исследование о том, что статическая типизация снижает количество ошибок](https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript) 
 - [Несдержанное обещание статической типизации](https://ru.hexlet.io/blog/posts/the-broken-promise-of-static-typing) Об этой статье упомянул в своем вопросе [Андрей Мелихов](https://twitter.com/amel_true). Ставит по сомнения вывод статьи выше.
