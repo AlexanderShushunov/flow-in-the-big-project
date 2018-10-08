@@ -2,10 +2,12 @@
 Видео:
  - [c The Rolling Scopes Conference 2018](https://www.youtube.com/watch?v=xSHPFcdVj2A) (10.02.2018)
  - [c ITsubbotnik 2018 Moscow](https://youtu.be/5Y5Me-EgusU) (2018.05.26)
+ - [c KharkivJS 2018](https://kharkivjs.org/) (2018.10.07) is comming soon
 
 Слайды:
  - [c The Rolling Scopes Conference 2018](https://drive.google.com/open?id=1mo8uXoxKsk1Dsj5kYI69DrQucuZcV_AP)
  - [c ITsubbotnik 2018 Moscow](https://drive.google.com/open?id=17XiMArkSOYBIcTFW3Pg3MwmKKUUHMS2q)
+ - [c KharkivJS 2018](https://drive.google.com/file/d/1uERSqhHK4mcCwDy4SVbOZcwfswvpaU_g/view?usp=sharing)
 
 [Статья нашего архитектора](https://medium.com/@tselishev.semen/fairy-tale-flow-world-8adfdda857ab)
 
